@@ -1,3 +1,3 @@
-hugo server
+In terminal: hugo server
 
-In your web browers search "http://localhost:1313"
+In your web browers search: "http://localhost:1313"
