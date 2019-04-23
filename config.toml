@@ -10,9 +10,9 @@ googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
-    location = "Earth"
+    site_author = "Marisa Wadsworth"
+    site_description = "The awesome blog of Marisa Wadsworth."
+    location = "New Zealand"
     # Link custom assets relative to /static
     avatar = "img/Marisa.jpg"
     header_background = "img/Background.jpg"
